@@ -1,0 +1,10 @@
+torch==1.8.0
+pytorch-lightning==1.2.3
+torchaudio==0.8.0
+test-tube==0.7.5
+gdown==3.12.2
+auraloss==0.1.7
+torchcrepe==0.0.13
+SoundFile==0.10.3.post1
+tqdm==4.49.0
+transformers==4.4.1
